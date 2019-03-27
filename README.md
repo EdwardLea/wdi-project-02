@@ -6,8 +6,9 @@
 
 ## Technologies used
 
-* React.js, Webpack, Babel & Axios
 * HTML5 & JavaScript (ES6)
+* React.js
+* Webpack, Babel & Axios
 * CSS3, CSS Animation, SCSS & Bulma
 * Food Standards Agency & Zomato APIs
 * Git & GitHub
